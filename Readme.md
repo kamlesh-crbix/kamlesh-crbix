@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FEC601&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kamlesh+Kshirsagar!;Full+Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FEC601&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kamlesh+Kshirsagar!;Backend+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamlesh-crbix&show_icons=true&theme=tokyonight&hide_border=true" alt="Kamlesh's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh-kshirsagar&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh-crbix&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
